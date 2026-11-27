@@ -1,0 +1,377 @@
+id_solicitud,id_persona,fecha,monto,dispositivo,telefono,direccion,ip,correo,id_negocio,provincia,id_referencia,etiqueta,escenario
+S0147,P147,2026-10-27 10:28,5000,DEV-0147,957372640,"Calle Los Pinos 247, Oxapampa",190.228.140.129,luis58428@outlook.com,,Oxapampa,,legitimo,normal
+S0211,P211,2026-10-28 01:14,3500,DEV-0211,953480170,"Av. Larco 311, Ascope",190.101.76.121,carmen9623@outlook.com,NEG-084,Ascope,,legitimo,normal
+S0168,P168,2026-10-28 01:19,26500,DEV-0168,923872277,"Calle Los Pinos 268, Lima",190.234.106.32,lucia88054@hotmail.com,,Lima,,legitimo,normal
+S0014,P014,2026-10-28 02:11,15500,DEV-0014,936648552,"Calle Las Flores 114, Chepén",190.127.205.91,jose23820@hotmail.com,,Chepén,,legitimo,normal
+S0011,P011,2026-10-28 04:40,5500,DEV-0011,926307634,"Calle Las Flores 111, Chepén",190.159.7.100,rosa91060@gmail.com,,Chepén,,legitimo,normal
+S0068,P068,2026-10-28 06:06,23500,DEV-0068,920078041,"Calle Los Pinos 168, Caylloma",190.222.123.60,diego26644@hotmail.com,NEG-025,Caylloma,,legitimo,normal
+S0043,P043,2026-10-28 08:35,8500,DEV-0043,957403585,"Jr. Pizarro 143, Chepén",190.130.181.50,julia2799@outlook.com,,Chepén,,legitimo,normal
+S0239,P239,2026-10-28 09:07,19500,DEV-0239,986528161,"Jr. Bolívar 333, Jauja",190.221.12.184,maria56281@gmail.com,,Jauja,P240,legitimo,normal
+S0264,P264,2026-10-28 11:25,2500,DEV-0264,926157299,"Av. España 343, Tarma",190.82.63.10,ana42976@outlook.com,,Tarma,,legitimo,normal
+S0246,P246,2026-10-28 22:59,25500,DEV-0246,946790691,"Jr. Bolívar 335, Arequipa",190.2.174.232,carlos98098@gmail.com,,Arequipa,,legitimo,normal
+S0243,P243,2026-10-28 23:54,17000,DEV-0243,983325104,"Jr. Bolívar 335, Arequipa",190.11.110.131,julia20252@outlook.com,NEG-090,Arequipa,,legitimo,normal
+S0260,P260,2026-10-29 08:22,26500,DEV-0260,946025585,"Jr. Bolívar 341, Cañete",190.6.141.229,carmen37750@hotmail.com,,Cañete,,legitimo,normal
+S0235,P235,2026-10-29 08:42,24500,DEV-0235,937003514,"Jr. Bolívar 332, Arequipa",190.26.101.221,julia83905@hotmail.com,NEG-089,Arequipa,,legitimo,normal
+S0210,P210,2026-10-29 10:26,6500,DEV-0210,984712727,"Av. Larco 310, Chepén",190.43.127.2,carlos30152@gmail.com,NEG-083,Chepén,,legitimo,normal
+S0182,P182,2026-10-29 12:18,26000,DEV-0182,957305600,"Calle Los Pinos 282, Trujillo",190.159.134.47,luis18839@hotmail.com,NEG-073,Trujillo,,legitimo,normal
+S0241,P241,2026-10-29 15:26,14000,DEV-0241,970953822,"Calle Las Flores 334, Caylloma",190.103.167.78,carmen67582@outlook.com,,Caylloma,P242,legitimo,normal
+S0027,P027,2026-10-29 16:15,1500,DEV-0027,999671723,"Calle Los Pinos 127, Cañete",190.202.74.76,diego24354@outlook.com,,Cañete,,legitimo,normal
+S0282,P282,2026-10-29 17:57,10000,DEV-0282,994322199,"Calle Las Flores 348, Camaná",190.175.94.245,maria84579@gmail.com,,Camaná,,legitimo,normal
+S0293,P293,2026-10-29 20:22,27500,DEV-0289,966469151,"Av. Larco 355, Pasco",190.217.56.213,elena67433@gmail.com,,Pasco,,legitimo,G
+S0309,P309,2026-10-29 21:27,3500,DEV-0296,915404517,"Calle Las Flores 371, Arequipa",190.36.29.140,lucia34499@outlook.com,,Arequipa,,legitimo,G
+S0061,P061,2026-10-30 03:16,5500,DEV-0061,956084341,"Av. España 161, Cañete",190.46.183.209,diego55483@hotmail.com,NEG-023,Cañete,,legitimo,normal
+S0301,P301,2026-10-30 05:17,11500,DEV-0289,953533553,"Av. América 363, Pasco",190.45.173.167,rosa55530@hotmail.com,,Pasco,,legitimo,G
+S0094,P094,2026-10-30 09:13,25000,DEV-0094,919162909,"Av. Larco 194, Trujillo",190.110.232.15,lucia93210@hotmail.com,NEG-035,Trujillo,,legitimo,normal
+S0085,P085,2026-10-30 10:01,26500,DEV-0085,985341601,"Calle Las Flores 185, Chepén",190.154.231.170,rosa36056@hotmail.com,NEG-032,Chepén,P099,legitimo,normal
+S0222,P222,2026-10-30 11:33,21000,DEV-0222,939740044,"Av. Larco 322, Cañete",190.142.68.10,raul16912@gmail.com,,Cañete,,legitimo,normal
+S0237,P237,2026-10-30 12:14,19500,DEV-0237,997289485,"Jr. Bolívar 333, Jauja",190.35.247.115,victor1557@outlook.com,,Jauja,P238,legitimo,normal
+S0137,P137,2026-10-30 14:04,13500,DEV-0137,961093209,"Calle Las Flores 237, Huaura",190.163.197.204,mario34986@gmail.com,NEG-054,Huaura,,legitimo,normal
+S0044,P044,2026-10-30 15:30,6500,DEV-0044,924310326,"Av. Mansiche 144, Trujillo",190.76.148.224,sofia18916@outlook.com,,Trujillo,,legitimo,normal
+S0163,P163,2026-10-30 21:14,13000,DEV-0163,925763573,"Av. España 263, Huaura",190.32.122.205,pedro652@hotmail.com,,Huaura,P051,legitimo,normal
+S0213,P213,2026-10-31 06:52,11500,DEV-0213,931782797,"Av. América 313, Trujillo",190.174.251.37,lucia79331@outlook.com,,Trujillo,,legitimo,normal
+S0129,P129,2026-10-31 09:13,9000,DEV-0129,987233283,"Calle Las Flores 229, Huancayo",190.213.38.132,hugo43412@hotmail.com,,Huancayo,,legitimo,normal
+S0364,P361,2026-10-31 09:30,25000,DEV-0325,926379580,"Calle Las Flores 421, Ascope",190.78.217.236,carlos61854@outlook.com,NEG-096,Ascope,P362,legitimo,D
+S0313,P313,2026-10-31 14:02,26500,DEV-0299,981242545,"Calle Los Pinos 375, Lima",190.137.178.44,diego53310@outlook.com,NEG-093,Lima,,fraude,A
+S0054,P054,2026-10-31 15:32,9000,DEV-0054,978666613,"Jr. Pizarro 154, Tarma",190.174.37.236,lucia76470@gmail.com,,Tarma,P142,legitimo,normal
+S0314,P314,2026-10-31 18:08,22000,DEV-0299,924633151,"Av. América 376, Lima",190.224.91.1,maria11998@outlook.com,NEG-093,Lima,,fraude,A
+S0112,P112,2026-10-31 19:18,29000,DEV-0112,976751488,"Av. América 212, Oxapampa",190.122.59.40,mario35460@outlook.com,NEG-045,Oxapampa,,legitimo,normal
+S0365,P362,2026-10-31 22:18,7000,DEV-0326,924769319,"Calle Las Flores 421, Ascope",190.127.180.147,jose34571@hotmail.com,NEG-096,Ascope,P363,legitimo,D
+S0103,P103,2026-10-31 23:28,23000,DEV-0103,967721177,"Calle Las Flores 203, Satipo",190.68.21.41,julia38497@gmail.com,NEG-039,Satipo,,legitimo,normal
+S0318,P312,2026-11-01 00:31,19000,DEV-0289,999002243,"Jr. Bolívar 380, Lima",190.113.142.169,paula16877@outlook.com,,Lima,,fraude,A
+S0218,P218,2026-11-01 01:17,25500,DEV-0218,961428430,"Av. España 318, Islay",190.173.158.102,carmen68548@outlook.com,NEG-086,Islay,,legitimo,normal
+S0261,P261,2026-11-01 03:21,23000,DEV-0261,978958232,"Jr. Bolívar 341, Cañete",190.193.11.20,lucia27496@gmail.com,,Cañete,,legitimo,normal
+S0286,P286,2026-11-01 03:33,22500,DEV-0286,993339264,"Calle Los Pinos 350, Pacasmayo",190.61.162.104,carlos17979@hotmail.com,,Pacasmayo,,legitimo,normal
+S0250,P250,2026-11-01 04:05,14000,DEV-0250,949406252,"Jr. Bolívar 337, Caylloma",190.182.223.78,jorge21234@outlook.com,,Caylloma,,legitimo,normal
+S0295,P295,2026-11-01 04:40,24000,DEV-0289,940263205,"Calle Las Flores 357, Pasco",190.187.68.92,diego33442@outlook.com,,Pasco,,legitimo,G
+S0296,P296,2026-11-01 05:32,5500,DEV-0289,912795478,"Av. España 358, Pasco",190.76.56.151,jose20986@hotmail.com,,Pasco,,legitimo,G
+S0025,P025,2026-11-01 09:01,1000,DEV-0025,936393970,"Av. América 125, Chepén",190.239.248.22,carmen96871@outlook.com,NEG-012,Chepén,,legitimo,normal
+S0253,P253,2026-11-01 09:49,3000,DEV-0253,926632267,"Jr. Bolívar 338, Ascope",190.180.196.248,rosa52883@gmail.com,,Ascope,P254,legitimo,normal
+S0228,P228,2026-11-01 12:25,11500,DEV-0228,974136727,"Jr. Bolívar 328, Chepén",190.96.214.15,ana30381@outlook.com,,Chepén,,legitimo,normal
+S0225,P225,2026-11-01 13:03,14500,DEV-0225,914155695,"Calle Los Pinos 325, Pasco",190.173.185.32,pedro60051@outlook.com,,Pasco,,legitimo,normal
+S0312,P312,2026-11-01 13:04,8500,DEV-0299,935165258,"Av. España 374, Lima",190.94.23.203,rosa14806@hotmail.com,NEG-093,Lima,,fraude,A
+S0316,P316,2026-11-01 13:31,8000,DEV-0299,911550817,"Jr. Pizarro 378, Lima",190.78.21.224,diego11047@hotmail.com,NEG-094,Lima,,fraude,A
+S0020,P020,2026-11-01 13:39,25500,DEV-0020,945704404,"Av. América 120, Daniel Carrión",190.120.133.64,luis22036@hotmail.com,NEG-008,Daniel Carrión,,legitimo,normal
+S0084,P084,2026-11-01 15:57,28000,DEV-0084,987048328,"Av. Mansiche 184, Huaral",190.22.164.98,diego56116@gmail.com,,Huaral,,legitimo,normal
+S0180,P180,2026-11-01 16:04,10500,DEV-0180,937178088,"Av. Mansiche 280, Cañete",190.202.209.179,carlos58327@outlook.com,NEG-071,Cañete,,legitimo,normal
+S0101,P101,2026-11-01 17:43,18500,DEV-0101,972310372,"Av. Mansiche 201, Trujillo",190.84.255.57,jorge27669@outlook.com,,Trujillo,,legitimo,normal
+S0037,P037,2026-11-01 17:57,18500,DEV-0037,911440656,"Calle Los Pinos 137, Trujillo",190.57.113.221,elena85164@gmail.com,,Trujillo,,legitimo,normal
+S0317,P317,2026-11-01 20:10,25500,DEV-0299,994918190,"Jr. Bolívar 379, Lima",190.226.100.80,paula26770@hotmail.com,NEG-094,Lima,,fraude,A
+S0240,P240,2026-11-01 20:20,10000,DEV-0240,991866452,"Jr. Bolívar 333, Jauja",190.182.51.57,hugo7583@gmail.com,,Jauja,,legitimo,normal
+S0315,P315,2026-11-01 20:51,28000,DEV-0299,958913231,"Calle Las Flores 377, Lima",190.79.133.184,jose15110@hotmail.com,NEG-094,Lima,,fraude,A
+S0166,P166,2026-11-01 22:35,6000,DEV-0166,965085348,"Jr. Pizarro 266, Huancayo",190.165.54.131,sofia306@gmail.com,,Huancayo,,legitimo,normal
+S0012,P012,2026-11-01 23:35,3000,DEV-0012,990764425,"Jr. Bolívar 112, Tarma",190.185.152.50,rosa94213@hotmail.com,,Tarma,,legitimo,normal
+S0367,P364,2026-11-01 23:46,26500,DEV-0328,977210270,"Calle Las Flores 421, Ascope",190.0.154.66,maria72380@outlook.com,,Ascope,,legitimo,D
+S0188,P188,2026-11-02 01:22,15000,DEV-0188,979917935,"Jr. Pizarro 288, Trujillo",190.240.122.240,carmen72727@gmail.com,NEG-077,Trujillo,,legitimo,normal
+S0196,P196,2026-11-02 02:31,10500,DEV-0196,969053938,"Calle Los Pinos 296, Huaral",190.233.138.58,carmen4173@hotmail.com,,Huaral,,legitimo,normal
+S0057,P057,2026-11-02 05:37,5000,DEV-0057,930991605,"Jr. Pizarro 157, Islay",190.24.40.19,nora44726@outlook.com,,Islay,,legitimo,normal
+S0366,P363,2026-11-02 07:39,4500,DEV-0327,947530342,"Calle Las Flores 421, Ascope",190.246.144.97,nora75854@gmail.com,,Ascope,P364,legitimo,D
+S0247,P247,2026-11-02 09:26,19500,DEV-0247,948695930,"Av. España 336, Ascope",190.56.236.183,hugo93146@gmail.com,,Ascope,,legitimo,normal
+S0292,P292,2026-11-02 10:20,4500,DEV-0289,963291368,"Jr. Pizarro 354, Pasco",190.136.165.173,sofia53103@outlook.com,,Pasco,,legitimo,G
+S0190,P190,2026-11-02 16:55,9000,DEV-0190,957528284,"Jr. Bolívar 290, Ascope",190.239.235.201,maria9766@hotmail.com,NEG-078,Ascope,,legitimo,normal
+S0244,P244,2026-11-02 17:37,5500,DEV-0244,921790654,"Jr. Bolívar 335, Arequipa",190.224.15.109,maria78930@outlook.com,NEG-090,Arequipa,,legitimo,normal
+S0159,P159,2026-11-02 18:06,13000,DEV-0159,930083414,"Jr. Pizarro 259, Trujillo",190.14.4.209,rosa60789@gmail.com,,Trujillo,,legitimo,normal
+S0217,P217,2026-11-02 23:06,21000,DEV-0217,988609084,"Av. Larco 317, Ascope",190.232.98.231,carlos26832@hotmail.com,NEG-085,Ascope,,legitimo,normal
+S0144,P144,2026-11-02 23:58,8500,DEV-0144,984538037,"Av. España 244, Ascope",190.63.144.231,luis97397@outlook.com,,Ascope,,legitimo,normal
+S0105,P105,2026-11-03 00:49,3500,DEV-0105,979450684,"Av. América 205, Ascope",190.101.237.39,carlos56352@hotmail.com,,Ascope,,legitimo,normal
+S0298,P298,2026-11-03 02:03,25000,DEV-0289,977749707,"Av. España 360, Pasco",190.2.123.230,diego31660@gmail.com,,Pasco,,legitimo,G
+S0038,P038,2026-11-03 03:25,18000,DEV-0038,965219539,"Av. Mansiche 138, Chepén",190.57.41.218,victor89072@gmail.com,,Chepén,,legitimo,normal
+S0238,P238,2026-11-03 03:30,7500,DEV-0238,939744803,"Jr. Bolívar 333, Jauja",190.185.185.238,jose85834@outlook.com,,Jauja,P239,legitimo,normal
+S0062,P062,2026-11-03 05:36,27000,DEV-0062,949583565,"Jr. Bolívar 162, Huaral",190.244.16.199,jorge85421@outlook.com,,Huaral,,legitimo,normal
+S0356,P353,2026-11-03 05:50,19500,DEV-0319,929759605,"Av. Larco 413, Huancayo",190.33.36.6,hugo94319@gmail.com,,Huancayo,,fraude,J
+S0199,P199,2026-11-03 08:42,19500,DEV-0199,918965585,"Av. España 299, Lima",190.231.209.65,nora86740@gmail.com,NEG-081,Lima,,legitimo,normal
+S0090,P090,2026-11-03 11:48,5000,DEV-0090,964964723,"Jr. Bolívar 190, Cañete",190.98.190.17,lucia43191@gmail.com,,Cañete,,legitimo,normal
+S0029,P029,2026-11-03 12:21,19000,DEV-0029,988678491,"Av. América 129, Chepén",190.206.25.242,lucia64809@hotmail.com,NEG-013,Chepén,,legitimo,normal
+S0164,P164,2026-11-03 14:41,7000,DEV-0164,988629383,"Av. Larco 264, Huaral",190.0.19.120,luis52698@gmail.com,,Huaral,,legitimo,normal
+S0306,P306,2026-11-03 15:22,15500,DEV-0293,915404517,"Calle Las Flores 368, Arequipa",190.46.122.232,julia477@outlook.com,,Arequipa,,legitimo,G
+S0113,P113,2026-11-03 17:05,2000,DEV-0113,985824255,"Av. Mansiche 213, Cañete",190.131.187.244,lucia37166@hotmail.com,,Cañete,,legitimo,normal
+S0097,P097,2026-11-03 18:56,14500,DEV-0097,957124752,"Av. América 197, Cañete",190.131.156.52,maria6839@gmail.com,NEG-038,Cañete,,legitimo,normal
+S0290,P290,2026-11-03 19:56,14500,DEV-0289,994988211,"Av. Larco 352, Pasco",190.44.143.81,nora90860@gmail.com,,Pasco,,legitimo,G
+S0183,P183,2026-11-03 22:50,19500,DEV-0183,999690031,"Calle Las Flores 283, Trujillo",190.114.31.17,jorge1952@hotmail.com,NEG-074,Trujillo,,legitimo,normal
+S0060,P060,2026-11-04 01:03,1000,DEV-0060,978300764,"Calle Las Flores 160, Huaura",190.13.162.145,carmen7352@hotmail.com,,Huaura,,legitimo,normal
+S0065,P065,2026-11-04 02:33,24500,DEV-0065,933566730,"Av. España 165, Huaral",190.76.90.223,carlos69281@gmail.com,,Huaral,,legitimo,normal
+S0245,P245,2026-11-04 02:34,9500,DEV-0245,942668687,"Jr. Bolívar 335, Arequipa",190.119.215.56,paula82385@hotmail.com,,Arequipa,,legitimo,normal
+S0280,P280,2026-11-04 02:59,17000,DEV-0280,914802129,"Calle Las Flores 348, Camaná",190.17.227.123,ana11398@gmail.com,,Camaná,,legitimo,normal
+S0198,P198,2026-11-04 03:58,9500,DEV-0198,991325776,"Av. España 298, Huaura",190.213.76.234,maria68456@gmail.com,,Huaura,P008,legitimo,normal
+S0186,P186,2026-11-04 05:18,4000,DEV-0186,930739539,"Av. Mansiche 286, Pasco",190.193.189.61,jorge3862@hotmail.com,NEG-076,Pasco,,legitimo,normal
+S0262,P262,2026-11-04 05:57,24000,DEV-0262,989764140,"Calle Los Pinos 342, Chepén",190.54.73.142,raul11752@gmail.com,NEG-092,Chepén,,legitimo,normal
+S0077,P077,2026-11-04 08:23,2000,DEV-0077,993832951,"Jr. Bolívar 177, Huaura",190.232.144.141,carmen90487@hotmail.com,NEG-030,Huaura,P049,legitimo,normal
+S0311,P311,2026-11-04 11:09,19500,DEV-0298,915404517,"Av. Mansiche 373, Arequipa",190.242.64.37,rosa63406@hotmail.com,,Arequipa,,legitimo,G
+S0248,P248,2026-11-04 12:13,27500,DEV-0248,987489928,"Av. España 336, Ascope",190.217.26.126,ana58025@gmail.com,,Ascope,,legitimo,normal
+S0139,P139,2026-11-04 14:16,13500,DEV-0139,910907579,"Jr. Pizarro 239, Huaura",190.147.62.67,julia1549@gmail.com,NEG-055,Huaura,,legitimo,normal
+S0191,P191,2026-11-04 18:03,3000,DEV-0191,969041996,"Calle Los Pinos 291, Lima",190.61.243.124,elena23599@outlook.com,,Lima,,legitimo,normal
+S0018,P018,2026-11-04 18:26,14500,DEV-0018,981335198,"Calle Los Pinos 118, Pacasmayo",190.226.174.178,paula96821@outlook.com,NEG-007,Pacasmayo,,legitimo,normal
+S0149,P149,2026-11-04 18:49,19000,DEV-0149,957327683,"Calle Los Pinos 249, Huaral",190.15.114.200,carlos3728@outlook.com,,Huaral,,legitimo,normal
+S0194,P194,2026-11-04 21:19,27500,DEV-0194,918323762,"Av. Larco 294, Ascope",190.98.155.192,carmen76464@gmail.com,,Ascope,,legitimo,normal
+S0185,P185,2026-11-04 21:24,25000,DEV-0185,965935477,"Av. España 285, Huaral",190.15.114.167,lucia28717@hotmail.com,NEG-075,Huaral,,legitimo,normal
+S0224,P224,2026-11-04 23:22,5000,DEV-0224,942514841,"Av. Larco 324, Lima",190.54.36.81,carlos69721@outlook.com,,Lima,,legitimo,normal
+S0219,P219,2026-11-05 03:17,8500,DEV-0219,983271551,"Jr. Pizarro 319, Chepén",190.77.89.239,pedro60533@gmail.com,NEG-087,Chepén,,legitimo,normal
+S0251,P251,2026-11-05 05:12,14000,DEV-0251,927632088,"Jr. Bolívar 338, Ascope",190.245.225.197,nora63743@hotmail.com,NEG-091,Ascope,P252,legitimo,normal
+S0041,P041,2026-11-05 07:56,14500,DEV-0041,994734116,"Av. Mansiche 141, Ascope",190.44.103.145,jose95458@hotmail.com,,Ascope,,legitimo,normal
+S0130,P130,2026-11-05 11:50,22500,DEV-0130,968471399,"Jr. Bolívar 230, Chepén",190.192.30.233,mario64673@hotmail.com,,Chepén,,legitimo,normal
+S0308,P308,2026-11-05 12:58,9500,DEV-0295,915404517,"Jr. Bolívar 370, Arequipa",190.169.113.10,sofia54611@outlook.com,,Arequipa,,legitimo,G
+S0146,P146,2026-11-05 14:39,19000,DEV-0146,962436779,"Calle Los Pinos 246, Ascope",190.40.184.6,paula9470@gmail.com,NEG-058,Ascope,,legitimo,normal
+S0104,P104,2026-11-05 14:53,18500,DEV-0104,979426217,"Av. España 204, Oxapampa",190.109.77.243,pedro51324@gmail.com,NEG-040,Oxapampa,,legitimo,normal
+S0236,P236,2026-11-05 16:01,16000,DEV-0236,961895479,"Jr. Bolívar 332, Arequipa",190.193.158.164,nora61675@hotmail.com,NEG-089,Arequipa,,legitimo,normal
+S0272,P272,2026-11-05 19:46,13000,DEV-0272,941762938,"Calle Los Pinos 345, Chepén",190.97.137.232,lucia87063@outlook.com,,Chepén,P273,legitimo,normal
+S0291,P291,2026-11-05 22:00,23500,DEV-0289,970898787,"Calle Las Flores 353, Pasco",190.92.6.147,lucia23503@gmail.com,,Pasco,,legitimo,G
+S0181,P181,2026-11-06 00:20,13000,DEV-0181,928834400,"Jr. Bolívar 281, Oxapampa",190.115.54.219,lucia45983@outlook.com,NEG-072,Oxapampa,,legitimo,normal
+S0288,P288,2026-11-06 04:30,11500,DEV-0288,914613553,"Calle Los Pinos 350, Pacasmayo",190.48.188.98,jose18404@hotmail.com,,Pacasmayo,,legitimo,normal
+S0294,P294,2026-11-06 06:32,22000,DEV-0289,928710850,"Calle Las Flores 356, Pasco",190.11.13.14,victor81705@outlook.com,,Pasco,,legitimo,G
+S0070,P070,2026-11-06 06:42,29500,DEV-0070,952691673,"Jr. Pizarro 170, Oxapampa",190.127.82.82,hugo78337@hotmail.com,,Oxapampa,,legitimo,normal
+S0125,P125,2026-11-06 09:30,12000,DEV-0125,921801728,"Av. España 225, Huaura",190.201.238.159,luis38300@hotmail.com,NEG-050,Huaura,,legitimo,normal
+S0160,P160,2026-11-06 11:41,15500,DEV-0160,986767033,"Jr. Bolívar 260, Trujillo",190.248.105.2,pedro26806@hotmail.com,,Trujillo,,legitimo,normal
+S0152,P152,2026-11-06 14:00,13500,DEV-0152,970704428,"Calle Los Pinos 252, Caylloma",190.84.144.195,lucia10030@outlook.com,NEG-061,Caylloma,,legitimo,normal
+S0117,P117,2026-11-06 14:17,15500,DEV-0117,911435093,"Av. América 217, Ascope",190.93.5.82,victor53370@gmail.com,,Ascope,,legitimo,normal
+S0310,P310,2026-11-06 17:27,22500,DEV-0297,915404517,"Jr. Pizarro 372, Arequipa",190.250.129.50,jose87805@hotmail.com,,Arequipa,,legitimo,G
+S0368,P365,2026-11-06 22:12,6000,DEV-0329,988638446,"Av. España 422, Jauja",190.149.48.202,victor61229@hotmail.com,NEG-097,Jauja,,legitimo,H
+S0254,P254,2026-11-06 22:56,14500,DEV-0254,969052732,"Jr. Bolívar 338, Ascope",190.171.180.181,sofia84616@gmail.com,,Ascope,,legitimo,normal
+S0359,P356,2026-11-07 01:03,29000,DEV-0322,989431673,"Calle Los Pinos 416, Camaná",190.25.81.180,raul63450@outlook.com,,Camaná,,fraude,K
+S0063,P063,2026-11-07 04:10,9500,DEV-0063,998036878,"Av. América 163, Caylloma",190.67.129.3,raul62369@gmail.com,,Caylloma,P182,legitimo,normal
+S0127,P127,2026-11-07 04:54,29000,DEV-0127,988058666,"Av. España 227, Chepén",190.201.157.128,carmen66431@outlook.com,NEG-051,Chepén,,legitimo,normal
+S0184,P184,2026-11-07 05:48,5000,DEV-0184,955233491,"Jr. Bolívar 284, Pasco",190.189.128.95,diego21798@outlook.com,,Pasco,,legitimo,normal
+S0205,P205,2026-11-07 10:58,13000,DEV-0205,939009957,"Calle Los Pinos 305, Ascope",190.253.186.33,pedro83869@gmail.com,,Ascope,,legitimo,normal
+S0276,P276,2026-11-07 15:02,29000,DEV-0276,926334243,"Jr. Pizarro 346, Huaura",190.58.222.114,elena10673@outlook.com,,Huaura,,legitimo,normal
+S0230,P230,2026-11-07 16:20,8000,DEV-0230,950762092,"Calle Las Flores 330, Chepén",190.6.210.194,nora99046@gmail.com,NEG-088,Chepén,,legitimo,normal
+S0173,P173,2026-11-07 19:15,6000,DEV-0173,946061974,"Jr. Bolívar 273, Pasco",190.242.166.71,pedro1734@hotmail.com,NEG-065,Pasco,,legitimo,normal
+S0214,P214,2026-11-07 21:22,8000,DEV-0214,957332271,"Calle Las Flores 314, Tarma",190.159.36.206,mario12358@gmail.com,,Tarma,,legitimo,normal
+S0007,P007,2026-11-07 22:54,12000,DEV-0007,978382333,"Calle Los Pinos 107, Oxapampa",190.121.223.9,elena87077@gmail.com,,Oxapampa,,legitimo,normal
+S0123,P123,2026-11-08 02:14,26000,DEV-0123,953468681,"Av. Larco 223, Pacasmayo",190.175.194.104,rosa29939@outlook.com,,Pacasmayo,,legitimo,normal
+S0091,P091,2026-11-08 03:08,29500,DEV-0091,923283028,"Calle Las Flores 191, Pacasmayo",190.13.55.152,nora60636@hotmail.com,,Pacasmayo,,legitimo,normal
+S0005,P005,2026-11-08 06:59,1500,DEV-0005,913896898,"Av. América 105, Huaura",190.124.44.45,carlos46985@hotmail.com,,Huaura,,legitimo,normal
+S0257,P257,2026-11-08 09:49,6500,DEV-0257,989221767,"Av. España 340, Huaral",190.146.59.35,ana80800@hotmail.com,,Huaral,,legitimo,normal
+S0015,P015,2026-11-08 11:21,14500,DEV-0015,987103752,"Av. Larco 115, Ascope",190.101.155.40,sofia96783@gmail.com,,Ascope,,legitimo,normal
+S0300,P300,2026-11-08 11:34,17000,DEV-0289,968121716,"Av. Larco 362, Pasco",190.122.19.155,carlos25990@gmail.com,,Pasco,,legitimo,G
+S0080,P080,2026-11-08 12:11,22500,DEV-0080,975325521,"Av. Larco 180, Trujillo",190.226.161.117,nora132@hotmail.com,,Trujillo,,legitimo,normal
+S0100,P100,2026-11-08 12:19,7500,DEV-0100,958011299,"Av. Mansiche 200, Ascope",190.104.29.47,victor83800@gmail.com,,Ascope,,legitimo,normal
+S0267,P267,2026-11-08 14:29,15000,DEV-0267,956647854,"Av. España 343, Tarma",190.119.247.250,ana88259@outlook.com,,Tarma,,legitimo,normal
+S0362,P359,2026-11-08 15:03,8000,DEV-0324,964445490,"Av. América 419, Tarma",190.48.111.113,diego60499@outlook.com,,Tarma,,legitimo,E
+S0004,P004,2026-11-08 21:13,29000,DEV-0004,923435680,"Av. América 104, Pacasmayo",190.253.34.63,sofia88471@outlook.com,NEG-002,Pacasmayo,,legitimo,normal
+S0201,P201,2026-11-08 22:27,28000,DEV-0201,931282459,"Av. España 301, Ascope",190.153.59.115,pedro65492@outlook.com,,Ascope,,legitimo,normal
+S0078,P078,2026-11-08 23:48,13000,DEV-0078,969077728,"Calle Las Flores 178, Islay",190.77.198.195,sofia53745@gmail.com,,Islay,,legitimo,normal
+S0360,P357,2026-11-09 00:23,25000,DEV-0323,982692011,"Av. España 417, Camaná",190.25.81.180,julia49383@hotmail.com,,Camaná,,fraude,K
+S0278,P278,2026-11-09 03:15,19000,DEV-0278,923489445,"Av. América 347, Trujillo",190.142.233.165,carmen52603@outlook.com,,Trujillo,P279,legitimo,normal
+S0369,P366,2026-11-09 07:08,4000,DEV-0330,988638446,"Calle Las Flores 423, Jauja",190.79.210.45,paula19553@hotmail.com,NEG-097,Jauja,,legitimo,H
+S0321,P320,2026-11-09 07:43,9000,DEV-0302,966658153,"Av. América 383, Trujillo",190.131.247.83,lucia95597@hotmail.com,,Trujillo,P321,fraude,B
+S0263,P263,2026-11-09 08:30,7000,DEV-0263,918098600,"Calle Los Pinos 342, Chepén",190.20.254.220,sofia55351@gmail.com,NEG-092,Chepén,,legitimo,normal
+S0202,P202,2026-11-09 09:54,9000,DEV-0202,912924040,"Calle Los Pinos 302, Cañete",190.195.92.221,elena84351@gmail.com,,Cañete,,legitimo,normal
+S0269,P269,2026-11-09 12:04,1500,DEV-0269,925172486,"Av. Larco 344, Ascope",190.172.202.131,maria6316@outlook.com,,Ascope,,legitimo,normal
+S0003,P003,2026-11-09 12:32,8500,DEV-0003,920218005,"Av. Larco 103, Pacasmayo",190.114.22.41,nora22755@hotmail.com,,Pacasmayo,,legitimo,normal
+S0319,P318,2026-11-09 12:45,29000,DEV-0300,966658153,"Av. Larco 381, Trujillo",190.94.22.137,jorge36158@gmail.com,,Trujillo,P319,fraude,B
+S0363,P360,2026-11-09 16:18,1500,DEV-0324,926313232,"Jr. Bolívar 420, Tarma",190.182.205.54,carlos45548@hotmail.com,,Tarma,,legitimo,E
+S0086,P086,2026-11-09 19:30,26500,DEV-0086,997045073,"Jr. Pizarro 186, Pacasmayo",190.89.76.2,maria48103@hotmail.com,,Pacasmayo,,legitimo,normal
+S0109,P109,2026-11-09 19:43,24500,DEV-0109,951932116,"Jr. Bolívar 209, Chepén",190.186.91.29,jorge9109@outlook.com,NEG-043,Chepén,,legitimo,normal
+S0302,P302,2026-11-09 23:17,15000,DEV-0289,919296485,"Jr. Pizarro 364, Pasco",190.125.79.45,jorge56626@hotmail.com,,Pasco,,legitimo,G
+S0171,P171,2026-11-10 00:02,20500,DEV-0171,994843621,"Calle Las Flores 271, Huaral",190.107.40.234,ana7730@outlook.com,,Huaral,P172,legitimo,normal
+S0322,P321,2026-11-10 00:22,22500,DEV-0303,966658153,"Jr. Bolívar 384, Trujillo",190.184.44.194,diego96133@outlook.com,,Trujillo,P322,fraude,B
+S0187,P187,2026-11-10 03:09,3500,DEV-0187,940221410,"Jr. Pizarro 287, Trujillo",190.207.60.125,mario22792@gmail.com,,Trujillo,,legitimo,normal
+S0320,P319,2026-11-10 03:14,24500,DEV-0301,966658153,"Av. Mansiche 382, Trujillo",190.243.127.181,paula71121@hotmail.com,,Trujillo,P320,fraude,B
+S0305,P305,2026-11-10 04:32,24500,DEV-0292,915404517,"Jr. Pizarro 367, Arequipa",190.97.207.44,pedro87775@gmail.com,,Arequipa,,legitimo,G
+S0323,P322,2026-11-10 05:02,21500,DEV-0304,966658153,"Calle Los Pinos 385, Trujillo",190.130.187.178,ana35765@outlook.com,,Trujillo,,fraude,B
+S0287,P287,2026-11-10 10:05,9500,DEV-0287,996110651,"Calle Los Pinos 350, Pacasmayo",190.188.50.142,mario99871@outlook.com,,Pacasmayo,,legitimo,normal
+S0226,P226,2026-11-10 12:23,20000,DEV-0226,951675214,"Calle Las Flores 326, Chepén",190.147.238.101,lucia96215@gmail.com,,Chepén,,legitimo,normal
+S0031,P031,2026-11-10 17:10,12500,DEV-0031,963360418,"Av. Mansiche 131, Trujillo",190.1.16.216,hugo67025@hotmail.com,NEG-014,Trujillo,,legitimo,normal
+S0107,P107,2026-11-10 21:00,20000,DEV-0107,993213938,"Calle Los Pinos 207, Arequipa",190.45.103.36,mario35553@gmail.com,,Arequipa,,legitimo,normal
+S0026,P026,2026-11-10 23:36,11000,DEV-0026,913963730,"Calle Las Flores 126, Pacasmayo",190.4.183.236,rosa84486@hotmail.com,,Pacasmayo,,legitimo,normal
+S0297,P297,2026-11-11 04:16,14000,DEV-0289,999810500,"Jr. Pizarro 359, Pasco",190.237.7.187,luis30966@hotmail.com,,Pasco,,legitimo,G
+S0143,P143,2026-11-11 09:32,22000,DEV-0143,989915986,"Jr. Pizarro 243, Pacasmayo",190.120.221.104,lucia75208@outlook.com,,Pacasmayo,,legitimo,normal
+S0167,P167,2026-11-11 09:46,20000,DEV-0167,910580331,"Jr. Pizarro 267, Daniel Carrión",190.39.27.170,raul80630@hotmail.com,,Daniel Carrión,,legitimo,normal
+S0074,P074,2026-11-11 11:26,14500,DEV-0074,981154026,"Av. España 174, Lima",190.53.10.13,carmen8471@gmail.com,NEG-027,Lima,,legitimo,normal
+S0019,P019,2026-11-11 14:14,7500,DEV-0019,996813553,"Av. Mansiche 119, Daniel Carrión",190.219.65.126,lucia5736@outlook.com,,Daniel Carrión,P053,legitimo,normal
+S0206,P206,2026-11-11 15:06,20500,DEV-0206,948227890,"Av. Larco 306, Pasco",190.215.39.121,nora59532@hotmail.com,,Pasco,,legitimo,normal
+S0032,P032,2026-11-11 18:31,11500,DEV-0032,950863476,"Av. Larco 132, Trujillo",190.32.224.3,carlos95004@gmail.com,,Trujillo,,legitimo,normal
+S0102,P102,2026-11-11 19:41,7000,DEV-0102,962280164,"Calle Los Pinos 202, Pasco",190.46.25.107,pedro86370@hotmail.com,,Pasco,,legitimo,normal
+S0270,P270,2026-11-11 19:54,16500,DEV-0270,948590663,"Av. Larco 344, Ascope",190.89.196.41,ana65586@outlook.com,,Ascope,,legitimo,normal
+S0299,P299,2026-11-11 21:23,14500,DEV-0289,936948888,"Av. Mansiche 361, Pasco",190.171.243.196,luis29149@outlook.com,,Pasco,,legitimo,G
+S0370,P367,2026-11-11 21:51,14500,DEV-0331,988638446,"Calle Los Pinos 424, Jauja",190.198.142.39,jose23990@outlook.com,NEG-097,Jauja,,legitimo,H
+S0096,P096,2026-11-11 22:24,13000,DEV-0096,970809355,"Av. América 196, Camaná",190.130.152.143,sofia66985@hotmail.com,NEG-037,Camaná,,legitimo,normal
+S0087,P087,2026-11-12 00:50,9000,DEV-0087,963807038,"Jr. Bolívar 187, Huaral",190.9.102.1,nora34045@gmail.com,,Huaral,,legitimo,normal
+S0075,P075,2026-11-12 02:17,8000,DEV-0075,956074218,"Av. España 175, Pacasmayo",190.75.57.136,diego65056@gmail.com,NEG-028,Pacasmayo,,legitimo,normal
+S0128,P128,2026-11-12 03:34,6500,DEV-0128,960599957,"Calle Las Flores 228, Ascope",190.53.125.117,nora86143@hotmail.com,NEG-052,Ascope,,legitimo,normal
+S0349,P346,2026-11-12 07:14,10000,DEV-0313,932055064,"Calle Los Pinos 406, Huaral",190.89.95.67,paula17856@outlook.com,,Huaral,,fraude,L
+S0099,P099,2026-11-12 07:49,19000,DEV-0099,915464262,"Av. Larco 199, Cañete",190.165.18.71,pedro57564@hotmail.com,,Cañete,,legitimo,normal
+S0179,P179,2026-11-12 09:41,3000,DEV-0179,992717933,"Jr. Pizarro 279, Trujillo",190.72.57.185,mario84997@outlook.com,NEG-070,Trujillo,,legitimo,normal
+S0058,P058,2026-11-12 10:35,21000,DEV-0058,994704977,"Av. América 158, Ascope",190.165.14.55,carmen42837@outlook.com,,Ascope,,legitimo,normal
+S0148,P148,2026-11-12 11:15,16000,DEV-0148,949314902,"Av. Larco 248, Lima",190.114.150.162,carmen43399@outlook.com,,Lima,P141,legitimo,normal
+S0232,P232,2026-11-12 12:10,11500,DEV-0232,971858726,"Av. España 331, Huancayo",190.28.176.230,carlos41914@gmail.com,,Huancayo,P233,legitimo,normal
+S0093,P093,2026-11-12 13:59,10000,DEV-0093,980497627,"Calle Las Flores 193, Huaral",190.169.198.198,julia15492@gmail.com,,Huaral,P124,legitimo,normal
+S0174,P174,2026-11-12 15:39,27000,DEV-0174,973785420,"Calle Los Pinos 274, Cañete",190.168.0.198,pedro44918@gmail.com,NEG-066,Cañete,,legitimo,normal
+S0259,P259,2026-11-12 19:16,26000,DEV-0259,921337916,"Av. España 340, Huaral",190.166.244.30,carmen33374@hotmail.com,,Huaral,,legitimo,normal
+S0155,P155,2026-11-13 01:34,19000,DEV-0155,991514953,"Av. América 255, Daniel Carrión",190.161.181.79,jose5808@outlook.com,,Daniel Carrión,,legitimo,normal
+S0375,P372,2026-11-13 02:23,26000,DEV-0336,976241784,"Jr. Pizarro 429, Cañete",190.25.101.64,lucia11028@hotmail.com,,Cañete,,fraude,M
+S0006,P006,2026-11-13 04:18,18000,DEV-0006,924313802,"Calle Las Flores 106, Chepén",190.197.171.104,rosa16169@hotmail.com,NEG-003,Chepén,,legitimo,normal
+S0373,P370,2026-11-13 08:42,17500,DEV-0334,976248784,"Calle Las Flores 427, Cañete",190.116.88.166,diego48722@gmail.com,,Cañete,,fraude,M
+S0197,P197,2026-11-13 09:22,8500,DEV-0197,956707086,"Av. Larco 297, Pacasmayo",190.0.79.156,elena79524@hotmail.com,,Pacasmayo,,legitimo,normal
+S0162,P162,2026-11-13 10:30,28500,DEV-0162,976824750,"Jr. Pizarro 262, Satipo",190.240.86.103,pedro93966@outlook.com,,Satipo,P095,legitimo,normal
+S0016,P016,2026-11-13 10:31,9000,DEV-0016,929289438,"Calle Los Pinos 116, Huaral",190.222.178.240,ana14673@outlook.com,,Huaral,,legitimo,normal
+S0358,P355,2026-11-13 13:57,8000,DEV-0321,940525559,"Av. América 415, Camaná",190.25.81.180,luis95976@hotmail.com,,Camaná,,fraude,K
+S0111,P111,2026-11-13 16:09,12500,DEV-0111,950241014,"Calle Las Flores 211, Ascope",190.83.184.44,rosa43477@gmail.com,NEG-044,Ascope,,legitimo,normal
+S0307,P307,2026-11-13 17:07,4000,DEV-0294,915404517,"Calle Los Pinos 369, Arequipa",190.101.208.23,raul90113@hotmail.com,,Arequipa,,legitimo,G
+S0108,P108,2026-11-13 17:40,1000,DEV-0108,982276193,"Av. Larco 208, Cañete",190.176.99.242,maria86062@hotmail.com,NEG-042,Cañete,P003,legitimo,normal
+S0289,P289,2026-11-13 21:26,22500,DEV-0289,916276270,"Calle Los Pinos 351, Pasco",190.146.51.254,lucia88904@outlook.com,,Pasco,,legitimo,G
+S0136,P136,2026-11-13 22:50,25500,DEV-0136,969596819,"Av. Larco 236, Chepén",190.184.95.70,jorge62234@gmail.com,,Chepén,,legitimo,normal
+S0010,P010,2026-11-13 23:02,8500,DEV-0010,929509072,"Av. Mansiche 110, Islay",190.206.108.33,jose88857@outlook.com,NEG-005,Islay,,legitimo,normal
+S0361,P358,2026-11-14 01:27,8000,DEV-0324,928381739,"Calle Los Pinos 418, Tarma",190.143.138.191,paula32487@gmail.com,,Tarma,,legitimo,E
+S0161,P161,2026-11-14 01:40,7000,DEV-0161,963350663,"Jr. Pizarro 261, Trujillo",190.225.233.147,nora83421@outlook.com,NEG-062,Trujillo,,legitimo,normal
+S0081,P081,2026-11-14 02:27,8500,DEV-0081,966535904,"Jr. Bolívar 181, Satipo",190.193.181.183,rosa51589@outlook.com,,Satipo,,legitimo,normal
+S0371,P368,2026-11-14 06:58,19500,DEV-0332,988638446,"Calle Los Pinos 425, Jauja",190.98.225.166,paula63729@gmail.com,NEG-097,Jauja,,legitimo,H
+S0023,P023,2026-11-14 07:03,25500,DEV-0023,976821815,"Av. España 123, Tarma",190.207.105.30,jorge1631@hotmail.com,,Tarma,,legitimo,normal
+S0374,P371,2026-11-14 08:16,28500,DEV-0335,976548784,"Av. Mansiche 428, Cañete",190.80.157.40,elena72189@outlook.com,,Cañete,,fraude,M
+S0376,P373,2026-11-14 09:20,16000,DEV-0337,976248714,"Av. América 430, Cañete",190.250.93.65,ana39347@hotmail.com,,Cañete,,fraude,M
+S0140,P140,2026-11-14 09:32,8500,DEV-0140,953217272,"Jr. Bolívar 240, Cañete",190.35.49.193,hugo88885@hotmail.com,NEG-056,Cañete,P221,legitimo,normal
+S0030,P030,2026-11-14 09:53,5500,DEV-0030,923220069,"Av. América 130, Huaral",190.116.83.36,julia83470@hotmail.com,,Huaral,,legitimo,normal
+S0170,P170,2026-11-14 12:37,25500,DEV-0170,927082244,"Av. Mansiche 270, Tarma",190.98.3.21,rosa5718@gmail.com,,Tarma,P031,legitimo,normal
+S0079,P079,2026-11-14 13:38,9000,DEV-0079,963907318,"Calle Los Pinos 179, Arequipa",190.193.123.212,lucia86966@gmail.com,,Arequipa,,legitimo,normal
+S0266,P266,2026-11-14 14:39,22500,DEV-0266,996908676,"Av. España 343, Tarma",190.101.184.31,victor42646@hotmail.com,,Tarma,,legitimo,normal
+S0059,P059,2026-11-14 15:02,6500,DEV-0059,966490515,"Calle Las Flores 159, Pacasmayo",190.29.212.204,luis11439@outlook.com,,Pacasmayo,,legitimo,normal
+S0303,P303,2026-11-14 19:43,14500,DEV-0290,915404517,"Jr. Pizarro 365, Arequipa",190.84.23.128,jose96337@outlook.com,,Arequipa,,legitimo,G
+S0350,P347,2026-11-14 19:57,18000,DEV-0313,912484209,"Av. España 407, Huaral",190.148.68.184,mario96048@outlook.com,,Huaral,,fraude,L
+S0268,P268,2026-11-14 23:59,29500,DEV-0268,950991670,"Av. Larco 344, Ascope",190.17.225.141,nora1819@hotmail.com,,Ascope,,legitimo,normal
+S0039,P039,2026-11-15 03:08,17000,DEV-0039,915679245,"Jr. Pizarro 139, Tarma",190.52.235.213,sofia71352@gmail.com,,Tarma,,legitimo,normal
+S0082,P082,2026-11-15 04:48,8000,DEV-0082,935261681,"Jr. Pizarro 182, Chepén",190.135.134.233,mario94586@hotmail.com,,Chepén,P053,legitimo,normal
+S0009,P009,2026-11-15 05:07,10500,DEV-0009,931041424,"Calle Las Flores 109, Pacasmayo",190.243.104.59,julia88523@gmail.com,,Pacasmayo,,legitimo,normal
+S0049,P049,2026-11-15 06:13,5500,DEV-0049,934482645,"Av. Larco 149, Daniel Carrión",190.139.196.70,rosa65546@hotmail.com,,Daniel Carrión,P155,legitimo,normal
+S0208,P208,2026-11-15 08:54,25500,DEV-0208,975955578,"Calle Los Pinos 308, Chepén",190.100.189.197,jorge85039@hotmail.com,,Chepén,,legitimo,normal
+S0021,P021,2026-11-15 10:17,22500,DEV-0021,986105025,"Calle Los Pinos 121, Trujillo",190.249.247.61,pedro780@outlook.com,NEG-009,Trujillo,,legitimo,normal
+S0138,P138,2026-11-15 10:43,11000,DEV-0138,977048440,"Calle Las Flores 238, Pacasmayo",190.22.77.72,raul61642@outlook.com,,Pacasmayo,,legitimo,normal
+S0249,P249,2026-11-15 11:52,18000,DEV-0249,964565416,"Jr. Bolívar 337, Caylloma",190.172.209.197,pedro26076@gmail.com,,Caylloma,P250,legitimo,normal
+S0073,P073,2026-11-15 14:21,13500,DEV-0073,922380616,"Jr. Bolívar 173, Pacasmayo",190.171.16.150,pedro26405@outlook.com,,Pacasmayo,P117,legitimo,normal
+S0145,P145,2026-11-15 18:10,13000,DEV-0145,980614846,"Av. España 245, Chepén",190.140.34.198,hugo79288@outlook.com,,Chepén,P200,legitimo,normal
+S0256,P256,2026-11-15 21:43,24500,DEV-0256,981649649,"Av. Larco 339, Daniel Carrión",190.2.74.161,diego88857@hotmail.com,,Daniel Carrión,,legitimo,normal
+S0277,P277,2026-11-15 23:06,9500,DEV-0277,943632431,"Av. América 347, Trujillo",190.189.105.236,paula65653@outlook.com,,Trujillo,P278,legitimo,normal
+S0098,P098,2026-11-16 00:33,5500,DEV-0098,989822036,"Av. Mansiche 198, Cañete",190.187.174.52,julia92667@outlook.com,,Cañete,,legitimo,normal
+S0158,P158,2026-11-16 00:33,7000,DEV-0158,966090948,"Av. América 258, Chepén",190.142.223.199,sofia21106@hotmail.com,,Chepén,,legitimo,normal
+S0035,P035,2026-11-16 00:40,28500,DEV-0035,951170006,"Av. Mansiche 135, Chepén",190.175.14.218,lucia29171@outlook.com,NEG-015,Chepén,,legitimo,normal
+S0223,P223,2026-11-16 01:29,22000,DEV-0223,954783950,"Av. América 323, Lima",190.174.223.134,rosa18992@hotmail.com,,Lima,,legitimo,normal
+S0036,P036,2026-11-16 03:32,19500,DEV-0036,910372994,"Av. España 136, Huancayo",190.213.184.136,pedro74041@hotmail.com,NEG-016,Huancayo,,legitimo,normal
+S0116,P116,2026-11-16 06:00,8500,DEV-0116,913432649,"Jr. Pizarro 216, Trujillo",190.31.125.19,hugo44219@gmail.com,NEG-047,Trujillo,,legitimo,normal
+S0169,P169,2026-11-16 15:54,8500,DEV-0169,965436458,"Jr. Bolívar 269, Arequipa",190.51.45.95,elena39688@hotmail.com,NEG-063,Arequipa,,legitimo,normal
+S0195,P195,2026-11-16 16:57,16000,DEV-0195,998277452,"Av. Larco 295, Caylloma",190.119.33.123,diego67073@outlook.com,NEG-080,Caylloma,,legitimo,normal
+S0357,P354,2026-11-16 17:48,17500,DEV-0320,940471879,"Av. América 414, Camaná",190.25.81.180,rosa26866@hotmail.com,,Camaná,P355,fraude,K
+S0220,P220,2026-11-16 21:45,10500,DEV-0220,978779807,"Jr. Bolívar 320, Trujillo",190.38.54.169,rosa81764@hotmail.com,,Trujillo,,legitimo,normal
+S0192,P192,2026-11-16 22:34,21500,DEV-0192,962061337,"Av. Mansiche 292, Trujillo",190.119.255.171,hugo18268@outlook.com,NEG-079,Trujillo,,legitimo,normal
+S0372,P369,2026-11-16 23:52,28500,DEV-0333,988638446,"Av. Larco 426, Jauja",190.102.227.10,nora13368@outlook.com,NEG-097,Jauja,,legitimo,H
+S0178,P178,2026-11-17 01:37,9000,DEV-0178,991974354,"Jr. Pizarro 278, Trujillo",190.72.35.154,rosa91094@hotmail.com,NEG-069,Trujillo,,legitimo,normal
+S0265,P265,2026-11-17 03:59,6000,DEV-0265,932411441,"Av. España 343, Tarma",190.57.237.42,jose23724@gmail.com,,Tarma,,legitimo,normal
+S0351,P348,2026-11-17 04:48,17500,DEV-0314,912484209,"Jr. Pizarro 408, Huaral",190.154.102.140,hugo74914@gmail.com,NEG-095,Huaral,,fraude,L
+S0022,P022,2026-11-17 06:35,23500,DEV-0022,984255925,"Jr. Bolívar 122, Huaral",190.72.123.86,jose71871@hotmail.com,NEG-010,Huaral,,legitimo,normal
+S0354,P351,2026-11-17 07:12,10000,DEV-0317,986885474,"Av. América 411, Huancayo",190.90.11.5,hugo30126@hotmail.com,,Huancayo,P352,fraude,J
+S0203,P203,2026-11-17 08:44,22500,DEV-0203,917638000,"Jr. Pizarro 303, Chepén",190.241.108.173,carmen1269@hotmail.com,NEG-082,Chepén,,legitimo,normal
+S0126,P126,2026-11-17 08:50,22000,DEV-0126,941130092,"Av. España 226, Chepén",190.123.61.56,luis49246@gmail.com,,Chepén,,legitimo,normal
+S0207,P207,2026-11-17 11:11,6500,DEV-0207,946229109,"Jr. Bolívar 307, Cañete",190.246.9.174,carlos51656@hotmail.com,,Cañete,,legitimo,normal
+S0008,P008,2026-11-17 12:13,9500,DEV-0008,979581669,"Calle Los Pinos 108, Ascope",190.65.226.120,pedro20879@hotmail.com,NEG-004,Ascope,,legitimo,normal
+S0304,P304,2026-11-17 15:14,26000,DEV-0291,915404517,"Av. España 366, Arequipa",190.29.145.130,luis43964@gmail.com,,Arequipa,,legitimo,G
+S0355,P352,2026-11-17 19:05,22500,DEV-0318,999761543,"Jr. Pizarro 412, Huancayo",190.122.93.52,carmen83150@hotmail.com,,Huancayo,P353,fraude,J
+S0324,P323,2026-11-17 21:05,21000,DEV-0305,943458391,"Av. Larco 386, Arequipa",190.16.223.247,hugo68793@outlook.com,,Arequipa,P325,fraude,C
+S0331,P326,2026-11-17 22:57,8000,DEV-0306,963766554,"Av. España 392, Arequipa",190.190.58.195,carmen43650@gmail.com,,Arequipa,,fraude,C
+S0114,P114,2026-11-18 03:08,8500,DEV-0114,944433380,"Calle Los Pinos 214, Huaral",190.48.7.28,luis64025@outlook.com,,Huaral,,legitimo,normal
+S0326,P325,2026-11-18 04:22,19500,DEV-0305,929680239,"Av. España 387, Arequipa",190.100.138.230,mario5675@outlook.com,,Arequipa,P327,fraude,C
+S0271,P271,2026-11-18 04:26,14000,DEV-0271,915290712,"Calle Los Pinos 345, Chepén",190.170.245.245,nora80645@gmail.com,,Chepén,P272,legitimo,normal
+S0255,P255,2026-11-18 04:29,12000,DEV-0255,929918895,"Av. Larco 339, Daniel Carrión",190.205.221.159,jorge20518@outlook.com,,Daniel Carrión,,legitimo,normal
+S0076,P076,2026-11-18 06:36,6500,DEV-0076,988839856,"Calle Los Pinos 176, Ascope",190.7.135.69,rosa5671@gmail.com,NEG-029,Ascope,P182,legitimo,normal
+S0118,P118,2026-11-18 08:18,5500,DEV-0118,967236783,"Av. España 218, Ascope",190.176.71.53,lucia28799@outlook.com,,Ascope,P032,legitimo,normal
+S0193,P193,2026-11-18 13:04,12500,DEV-0193,979389975,"Jr. Bolívar 293, Pacasmayo",190.93.116.5,hugo60104@outlook.com,,Pacasmayo,,legitimo,normal
+S0328,P327,2026-11-18 15:38,19000,DEV-0306,953604623,"Av. España 389, Arequipa",190.143.31.237,pedro43460@gmail.com,,Arequipa,P329,fraude,C
+S0189,P189,2026-11-18 15:50,28500,DEV-0189,924662514,"Av. Mansiche 289, Ascope",190.192.56.16,victor68801@gmail.com,,Ascope,,legitimo,normal
+S0133,P133,2026-11-18 18:06,9500,DEV-0133,982058044,"Av. España 233, Pacasmayo",190.123.149.198,raul3392@hotmail.com,,Pacasmayo,,legitimo,normal
+S0212,P212,2026-11-18 18:12,11500,DEV-0212,942016493,"Calle Las Flores 312, Chepén",190.28.42.68,carlos34817@gmail.com,,Chepén,,legitimo,normal
+S0115,P115,2026-11-18 20:01,9000,DEV-0115,916367568,"Jr. Pizarro 215, Huaral",190.15.217.101,hugo67920@gmail.com,NEG-046,Huaral,,legitimo,normal
+S0325,P324,2026-11-18 23:24,17500,DEV-0305,957435208,"Av. Larco 386, Arequipa",190.117.174.87,mario14240@outlook.com,,Arequipa,P328,fraude,C
+S0329,P328,2026-11-19 00:32,21500,DEV-0306,917187785,"Av. España 390, Arequipa",190.217.98.39,diego66756@gmail.com,,Arequipa,,fraude,C
+S0327,P326,2026-11-19 00:46,21000,DEV-0305,979440829,"Av. España 388, Arequipa",190.224.147.108,maria41172@gmail.com,,Arequipa,,fraude,C
+S0330,P329,2026-11-19 01:08,22000,DEV-0306,985306979,"Jr. Pizarro 391, Arequipa",190.203.130.253,ana51384@hotmail.com,,Arequipa,,fraude,C
+S0056,P056,2026-11-19 02:06,8500,DEV-0056,980337753,"Av. Larco 156, Chepén",190.10.111.13,sofia58719@gmail.com,,Chepén,,legitimo,normal
+S0040,P040,2026-11-19 13:59,25500,DEV-0040,995431245,"Av. Mansiche 140, Camaná",190.29.207.61,luis48814@gmail.com,NEG-017,Camaná,,legitimo,normal
+S0153,P153,2026-11-19 15:44,24500,DEV-0153,960943992,"Av. Mansiche 253, Arequipa",190.100.135.52,raul99040@outlook.com,,Arequipa,,legitimo,normal
+S0234,P234,2026-11-19 19:12,28500,DEV-0234,983628372,"Av. España 331, Huancayo",190.109.174.93,pedro8400@gmail.com,,Huancayo,,legitimo,normal
+S0352,P349,2026-11-19 20:27,18000,DEV-0315,963232400,"Av. Mansiche 409, Huaral",190.64.186.127,julia72077@gmail.com,NEG-095,Huaral,P350,fraude,L
+S0028,P028,2026-11-19 20:55,24500,DEV-0028,912072464,"Jr. Pizarro 128, Huaral",190.167.194.48,diego41973@gmail.com,,Huaral,,legitimo,normal
+S0120,P120,2026-11-19 22:21,23500,DEV-0120,953730676,"Jr. Bolívar 220, Trujillo",190.178.83.206,mario88184@outlook.com,NEG-048,Trujillo,,legitimo,normal
+S0110,P110,2026-11-19 23:21,15500,DEV-0110,982000425,"Jr. Pizarro 210, Lima",190.18.17.11,paula75931@gmail.com,,Lima,,legitimo,normal
+S0119,P119,2026-11-20 01:56,16500,DEV-0119,937421960,"Av. Larco 219, Trujillo",190.168.35.193,hugo83422@gmail.com,,Trujillo,,legitimo,normal
+S0124,P124,2026-11-20 02:55,16500,DEV-0124,954302720,"Calle Las Flores 224, Cañete",190.8.56.225,mario54884@hotmail.com,NEG-049,Cañete,,legitimo,normal
+S0135,P135,2026-11-20 03:26,5000,DEV-0135,950268370,"Av. Larco 235, Oxapampa",190.102.31.42,jorge96786@outlook.com,NEG-053,Oxapampa,,legitimo,normal
+S0157,P157,2026-11-20 04:13,27000,DEV-0157,947488161,"Jr. Bolívar 257, Lima",190.65.55.136,nora32940@outlook.com,,Lima,,legitimo,normal
+S0172,P172,2026-11-20 08:48,20500,DEV-0172,994646791,"Calle Las Flores 272, Tarma",190.150.226.66,maria33124@hotmail.com,NEG-064,Tarma,,legitimo,normal
+S0221,P221,2026-11-20 10:32,15000,DEV-0221,935340855,"Av. América 321, Trujillo",190.162.244.241,victor92437@hotmail.com,,Trujillo,,legitimo,normal
+S0215,P215,2026-11-20 10:53,8000,DEV-0215,911594257,"Av. Mansiche 315, Huaral",190.47.241.145,victor18125@gmail.com,,Huaral,,legitimo,normal
+S0033,P033,2026-11-20 10:59,19000,DEV-0033,910525203,"Av. Mansiche 133, Trujillo",190.100.240.22,raul42437@outlook.com,,Trujillo,,legitimo,normal
+S0134,P134,2026-11-20 11:31,13000,DEV-0134,934724460,"Jr. Pizarro 234, Huaura",190.252.184.177,elena42503@gmail.com,,Huaura,,legitimo,normal
+S0258,P258,2026-11-20 12:43,15000,DEV-0258,972601467,"Av. España 340, Huaral",190.253.140.94,paula2609@hotmail.com,,Huaral,,legitimo,normal
+S0001,P001,2026-11-20 12:45,1000,DEV-0001,980128110,"Calle Las Flores 101, Huaura",190.165.73.184,pedro46389@hotmail.com,NEG-001,Huaura,,legitimo,normal
+S0067,P067,2026-11-20 12:51,22500,DEV-0067,951692052,"Jr. Pizarro 167, Trujillo",190.179.30.59,nora49292@hotmail.com,,Trujillo,,legitimo,normal
+S0231,P231,2026-11-20 17:22,9000,DEV-0231,983555307,"Av. España 331, Huancayo",190.166.194.112,jorge17520@gmail.com,,Huancayo,P232,legitimo,normal
+S0013,P013,2026-11-20 20:07,12000,DEV-0013,965176970,"Av. España 113, Chepén",190.206.237.199,maria36254@gmail.com,NEG-006,Chepén,,legitimo,normal
+S0273,P273,2026-11-20 23:17,19500,DEV-0273,968209057,"Calle Los Pinos 345, Chepén",190.167.162.165,raul34388@outlook.com,,Chepén,,legitimo,normal
+S0175,P175,2026-11-21 02:19,21000,DEV-0175,922757628,"Av. Larco 275, Lima",190.172.187.17,raul15982@hotmail.com,NEG-067,Lima,,legitimo,normal
+S0042,P042,2026-11-21 02:27,12500,DEV-0042,986486250,"Av. Larco 142, Chepén",190.182.250.12,hugo46336@gmail.com,NEG-018,Chepén,,legitimo,normal
+S0106,P106,2026-11-21 04:30,7500,DEV-0106,968674588,"Av. Larco 206, Lima",190.37.148.126,diego2339@hotmail.com,NEG-041,Lima,,legitimo,normal
+S0274,P274,2026-11-21 04:37,2000,DEV-0274,911834385,"Jr. Pizarro 346, Huaura",190.76.219.195,rosa75157@hotmail.com,,Huaura,P275,legitimo,normal
+S0216,P216,2026-11-21 12:45,25000,DEV-0216,963211205,"Jr. Pizarro 316, Ascope",190.132.216.134,raul43505@outlook.com,,Ascope,,legitimo,normal
+S0333,P331,2026-11-21 12:54,15500,DEV-0307,985755780,"Av. América 394, Lima",190.119.241.151,nora42215@gmail.com,,Lima,,fraude,F
+S0095,P095,2026-11-21 15:24,14000,DEV-0095,911393121,"Calle Las Flores 195, Lima",190.25.74.83,carmen24946@outlook.com,NEG-036,Lima,,legitimo,normal
+S0209,P209,2026-11-21 19:45,19500,DEV-0209,953684886,"Av. Mansiche 309, Trujillo",190.23.101.230,ana78065@outlook.com,,Trujillo,,legitimo,normal
+S0336,P334,2026-11-21 20:10,26500,DEV-0307,942262866,"Calle Las Flores 397, Lima",190.123.193.163,luis68126@outlook.com,,Lima,,fraude,F
+S0071,P071,2026-11-21 20:58,2000,DEV-0071,958683036,"Calle Los Pinos 171, Trujillo",190.224.93.112,maria39017@outlook.com,,Trujillo,,legitimo,normal
+S0281,P281,2026-11-21 21:00,29500,DEV-0281,982780158,"Calle Las Flores 348, Camaná",190.17.110.119,hugo61486@outlook.com,,Camaná,,legitimo,normal
+S0337,P335,2026-11-21 21:27,23000,DEV-0307,963781956,"Av. América 398, Lima",190.239.6.14,sofia60558@gmail.com,,Lima,,fraude,F
+S0285,P285,2026-11-21 23:28,15000,DEV-0285,945671313,"Av. España 349, Oxapampa",190.108.50.107,mario41003@outlook.com,,Oxapampa,,legitimo,normal
+S0233,P233,2026-11-22 01:09,24500,DEV-0233,959232908,"Av. España 331, Huancayo",190.24.233.243,carmen61642@hotmail.com,,Huancayo,P234,legitimo,normal
+S0002,P002,2026-11-22 02:42,3000,DEV-0002,932888925,"Jr. Pizarro 102, Chepén",190.178.98.116,hugo50558@gmail.com,,Chepén,,legitimo,normal
+S0142,P142,2026-11-22 06:48,5500,DEV-0142,961606837,"Jr. Bolívar 242, Cañete",190.211.147.35,lucia44407@outlook.com,,Cañete,,legitimo,normal
+S0353,P350,2026-11-22 07:55,11000,DEV-0316,972015934,"Av. Larco 410, Huaral",190.41.16.152,paula95442@gmail.com,,Huaral,,fraude,L
+S0227,P227,2026-11-22 08:32,26500,DEV-0227,972943496,"Jr. Pizarro 327, Satipo",190.126.14.66,paula61510@outlook.com,,Satipo,,legitimo,normal
+S0051,P051,2026-11-22 12:25,22500,DEV-0051,935247451,"Calle Los Pinos 151, Chepén",190.36.155.247,carmen96941@hotmail.com,,Chepén,,legitimo,normal
+S0052,P052,2026-11-22 12:27,11500,DEV-0052,977764837,"Jr. Bolívar 152, Huaral",190.30.172.172,carmen63116@outlook.com,,Huaral,,legitimo,normal
+S0334,P332,2026-11-22 12:34,24500,DEV-0307,968462810,"Av. Larco 395, Lima",190.46.235.32,pedro27903@hotmail.com,,Lima,,fraude,F
+S0131,P131,2026-11-22 14:09,4500,DEV-0131,929460311,"Av. Larco 231, Lima",190.193.229.80,paula19971@outlook.com,,Lima,,legitimo,normal
+S0332,P330,2026-11-22 15:13,14000,DEV-0307,953034187,"Av. Larco 393, Lima",190.105.10.149,nora80093@gmail.com,,Lima,,fraude,F
+S0069,P069,2026-11-22 17:10,19000,DEV-0069,959211964,"Av. América 169, Jauja",190.80.244.221,elena98515@gmail.com,,Jauja,,legitimo,normal
+S0047,P047,2026-11-23 03:40,2000,DEV-0047,994570347,"Av. América 147, Ascope",190.108.86.210,diego95331@hotmail.com,,Ascope,,legitimo,normal
+S0024,P024,2026-11-23 04:59,4500,DEV-0024,933514167,"Av. Larco 124, Lima",190.158.229.247,jose21154@hotmail.com,NEG-011,Lima,,legitimo,normal
+S0156,P156,2026-11-23 07:16,15500,DEV-0156,993402838,"Calle Las Flores 256, Chepén",190.52.175.28,maria47704@hotmail.com,,Chepén,,legitimo,normal
+S0229,P229,2026-11-23 07:34,11000,DEV-0229,992248581,"Av. Larco 329, Chepén",190.116.162.210,elena47961@hotmail.com,,Chepén,,legitimo,normal
+S0335,P333,2026-11-23 09:39,19500,DEV-0307,954974016,"Av. América 396, Lima",190.7.116.30,carmen52365@gmail.com,,Lima,,fraude,F
+S0121,P121,2026-11-23 11:26,27500,DEV-0121,942568316,"Av. América 221, Cañete",190.84.222.99,paula39196@outlook.com,,Cañete,,legitimo,normal
+S0284,P284,2026-11-23 12:38,20500,DEV-0284,993680822,"Av. España 349, Oxapampa",190.154.32.162,sofia69865@outlook.com,,Oxapampa,P285,legitimo,normal
+S0275,P275,2026-11-23 13:11,19500,DEV-0275,979834155,"Jr. Pizarro 346, Huaura",190.218.2.23,nora17521@gmail.com,,Huaura,P276,legitimo,normal
+S0347,P344,2026-11-23 13:29,20000,DEV-0311,962176436,"CALLE LOS PINOS N° 1680, PASCO",190.205.1.42,pedro42050@outlook.com,,Pasco,,fraude,I
+S0050,P050,2026-11-23 18:50,4000,DEV-0050,965332548,"Av. Larco 150, Ascope",190.102.218.163,nora83191@gmail.com,,Ascope,,legitimo,normal
+S0088,P088,2026-11-23 20:11,9000,DEV-0088,977230842,"Av. América 188, Cañete",190.224.46.135,mario11653@gmail.com,NEG-033,Cañete,,legitimo,normal
+S0346,P343,2026-11-23 20:20,22500,DEV-0310,966436417,Calle Los Pinos 1680 Pasco,190.205.1.42,carlos49154@outlook.com,,Pasco,,fraude,I
+S0154,P154,2026-11-23 22:21,24000,DEV-0154,924901667,"Av. Larco 254, Oxapampa",190.8.32.91,lucia54786@gmail.com,,Oxapampa,,legitimo,normal
+S0089,P089,2026-11-23 22:46,13000,DEV-0089,960253210,"Jr. Bolívar 189, Chepén",190.187.21.183,jorge53477@hotmail.com,,Chepén,,legitimo,normal
+S0340,P338,2026-11-23 23:44,10500,DEV-0308,916974724,"Jr. Pizarro 401, Lima",190.94.188.2,victor53794@outlook.com,,Lima,,fraude,F
+S0283,P283,2026-11-24 05:32,16000,DEV-0283,946699570,"Av. España 349, Oxapampa",190.114.128.67,luis28997@gmail.com,,Oxapampa,P284,legitimo,normal
+S0141,P141,2026-11-24 05:37,6500,DEV-0141,997000090,"Jr. Pizarro 241, Daniel Carrión",190.60.206.101,carmen52435@hotmail.com,NEG-057,Daniel Carrión,,legitimo,normal
+S0165,P165,2026-11-24 05:51,14000,DEV-0165,983812551,"Av. Larco 265, Camaná",190.134.21.40,julia2398@hotmail.com,,Camaná,,legitimo,normal
+S0343,P341,2026-11-24 07:21,10500,DEV-0308,980546908,"Av. América 404, Lima",190.189.58.94,raul84119@hotmail.com,,Lima,,fraude,F
+S0341,P339,2026-11-24 07:34,19000,DEV-0308,963101025,"Av. Mansiche 402, Lima",190.188.86.26,paula69200@hotmail.com,,Lima,,fraude,F
+S0344,P330,2026-11-24 09:08,11500,DEV-0308,990905134,"Av. España 405, Lima",190.173.82.107,ana47307@gmail.com,,Lima,,fraude,F
+S0348,P345,2026-11-24 10:05,9000,DEV-0312,995227113,"Calle Los Pinos 1680, Pasco",190.205.1.42,mario71546@hotmail.com,,Pasco,,fraude,I
+S0342,P340,2026-11-24 10:52,25000,DEV-0308,914859658,"Jr. Pizarro 403, Lima",190.107.112.225,sofia46904@hotmail.com,,Lima,,fraude,F
+S0048,P048,2026-11-24 10:56,11500,DEV-0048,918075868,"Calle Las Flores 148, Pacasmayo",190.247.170.59,ana32612@hotmail.com,NEG-020,Pacasmayo,,legitimo,normal
+S0176,P176,2026-11-24 11:19,17500,DEV-0176,979493726,"Calle Los Pinos 276, Trujillo",190.45.108.56,jorge98978@gmail.com,,Trujillo,P179,legitimo,normal
+S0252,P252,2026-11-24 16:16,16000,DEV-0252,978670146,"Jr. Bolívar 338, Ascope",190.101.241.152,paula18969@outlook.com,NEG-091,Ascope,P253,legitimo,normal
+S0345,P342,2026-11-24 17:53,19500,DEV-0309,990133382,"Calle Los Pinos 1680, Pasco",190.205.1.42,sofia33874@gmail.com,,Pasco,,fraude,I
+S0132,P132,2026-11-24 18:43,1000,DEV-0132,950806580,"Av. Larco 232, Huaura",190.138.73.49,nora75607@outlook.com,,Huaura,P130,legitimo,normal
+S0045,P045,2026-11-24 19:06,11500,DEV-0045,990950422,"Av. América 145, Daniel Carrión",190.77.249.129,mario4157@gmail.com,NEG-019,Daniel Carrión,P093,legitimo,normal
+S0279,P279,2026-11-24 20:00,16000,DEV-0279,993383808,"Av. América 347, Trujillo",190.60.23.192,maria89079@hotmail.com,,Trujillo,,legitimo,normal
+S0150,P150,2026-11-24 23:15,3500,DEV-0150,948663164,"Jr. Pizarro 250, Chepén",190.57.204.100,paula77179@hotmail.com,NEG-059,Chepén,,legitimo,normal
+S0204,P204,2026-11-25 02:06,8000,DEV-0204,949661910,"Av. Mansiche 304, Huaral",190.220.45.246,lucia71122@hotmail.com,,Huaral,,legitimo,normal
+S0338,P336,2026-11-25 03:07,23000,DEV-0308,955439218,"Av. España 399, Lima",190.198.81.205,jose34087@outlook.com,,Lima,,fraude,F
+S0151,P151,2026-11-25 04:09,9000,DEV-0151,971458620,"Jr. Bolívar 251, Trujillo",190.36.244.148,maria56545@hotmail.com,NEG-060,Trujillo,P017,legitimo,normal
+S0034,P034,2026-11-25 04:30,26500,DEV-0034,984213325,"Calle Las Flores 134, Huaral",190.30.169.156,jorge74068@outlook.com,,Huaral,,legitimo,normal
+S0046,P046,2026-11-25 08:37,15000,DEV-0046,985826518,"Av. Mansiche 146, Pacasmayo",190.201.117.224,hugo67773@gmail.com,,Pacasmayo,P081,legitimo,normal
+S0200,P200,2026-11-25 08:47,4000,DEV-0200,983971219,"Av. América 300, Daniel Carrión",190.26.223.235,jose2304@hotmail.com,,Daniel Carrión,,legitimo,normal
+S0122,P122,2026-11-25 09:17,9000,DEV-0122,991615825,"Jr. Pizarro 222, Arequipa",190.118.122.51,nora60028@outlook.com,,Arequipa,,legitimo,normal
+S0339,P337,2026-11-25 09:33,10500,DEV-0308,958755221,"Av. Mansiche 400, Lima",190.159.236.224,lucia90863@gmail.com,,Lima,,fraude,F
+S0242,P242,2026-11-25 12:11,16500,DEV-0242,948542958,"Calle Las Flores 334, Caylloma",190.5.73.155,sofia73554@gmail.com,,Caylloma,,legitimo,normal
+S0017,P017,2026-11-25 13:22,2000,DEV-0017,979032999,"Av. Larco 117, Trujillo",190.163.107.199,diego98251@gmail.com,,Trujillo,,legitimo,normal
+S0072,P072,2026-11-25 13:31,10500,DEV-0072,932913962,"Av. España 172, Trujillo",190.77.180.25,carlos60890@outlook.com,NEG-026,Trujillo,,legitimo,normal
+S0066,P066,2026-11-25 19:16,21000,DEV-0066,978799149,"Av. Mansiche 166, Ascope",190.176.199.118,lucia42455@gmail.com,,Ascope,,legitimo,normal
+S0055,P055,2026-11-25 22:58,25500,DEV-0055,948913259,"Jr. Bolívar 155, Cañete",190.219.34.215,mario41855@gmail.com,NEG-022,Cañete,,legitimo,normal
+S0064,P064,2026-11-26 00:27,25000,DEV-0064,924832633,"Av. España 164, Cañete",190.46.14.160,maria16029@gmail.com,NEG-024,Cañete,,legitimo,normal
+S0177,P177,2026-11-26 00:35,15000,DEV-0177,947144417,"Jr. Pizarro 277, Satipo",190.85.145.193,sofia32580@hotmail.com,NEG-068,Satipo,,legitimo,normal
+S0092,P092,2026-11-26 04:20,3000,DEV-0092,940772333,"Calle Las Flores 192, Satipo",190.225.203.126,maria67091@gmail.com,NEG-034,Satipo,,legitimo,normal
+S0053,P053,2026-11-26 05:34,7500,DEV-0053,937889664,"Calle Los Pinos 153, Ascope",190.3.232.104,julia51924@outlook.com,NEG-021,Ascope,,legitimo,normal
+S0083,P083,2026-11-26 07:34,25000,DEV-0083,930699112,"Calle Los Pinos 183, Huaura",190.186.104.136,carlos47955@gmail.com,NEG-031,Huaura,,legitimo,normal
